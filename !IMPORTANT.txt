@@ -3,7 +3,7 @@ If you plan to delete or modify any of these files, there are a few that must st
 
 - FMIF.py
 - FMIFView.py
-- temp folder
+- temp folder (If it isn't there, create one.)
 
 You can delete this and the readme if you want to. Also, the script called "view.bat" should be deleted if you aren't
 using a Windows Computer. If you are, deleting it is optional. It provides a way to view .FMIF files that are clicked on.
