@@ -1,0 +1,17 @@
+IMPORTANT INFORMATION:
+If you plan to delete or modify any of these files, there are a few that must stay. When modifying, you must keep:
+
+- FMIF.py
+- FMIFView.py
+- temp folder
+
+You can delete this and the readme if you want to. Also, the script called "view.bat" should be deleted if you aren't
+using a Windows Computer. If you are, deleting it is optional. It provides a way to view .FMIF files that are clicked on.
+
+FINAL NOTICE:
+If you use this script, you need to have the modules:
+- Pillow
+- Numpy
+
+Thank you for reading this, you can delete it if you want.
+- @FraggyMan 2026
